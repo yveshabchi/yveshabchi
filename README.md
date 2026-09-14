@@ -1,11 +1,16 @@
-### Hi, I'm Yves.
+Hi, I'm Yves.
 
-Full-Stack Software Engineer.
+Full-stack software engineer. I build web and mobile applications,
+and I work daily with AI coding agents: building with them, and
+building the infrastructure that makes their output reliable.
 
-I research B2B problems before I build, then ship small open-source v0.1 alphas to test whether the wedge holds.
+Recent work: a cross-platform community app live on both app stores,
+a subscription learning platform, and an AI-built school platform
+taken to production.
 
-Current: a Brick / Haystack-aware BACnet/IP MCP gateway for independent BAS integrators → [brick-bacnet-mcp](https://github.com/Yveshby27/brick-bacnet-mcp). A longer version of the research was accepted for publication on AutomatedBuildings.com on June 1, 2026.
+Open source: [brick-bacnet-mcp](https://github.com/Yveshby27/brick-bacnet-mcp),
+an MCP server for BACnet building automation networks.
+[mcp-server-audit](https://github.com/Yveshby27/mcp-server-audit),
+a CLI that checks an MCP server before you add it to an agent config.
 
-Public research notes live at [habchy.dev](https://habchy.dev).
-
-Reach me: yves.habchy@gmail.com · [LinkedIn](https://www.linkedin.com/in/yves-habchi-713825236/)
+[habchy.dev](https://www.habchy.dev) · yves.habchy@gmail.com · [LinkedIn](https://www.linkedin.com/in/yves-habchy-713825236/)
