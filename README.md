@@ -1,16 +1,5 @@
-Hi, I'm Yves.
+Hi, I'm Yves. AI engineer and full-stack developer.
 
-Full-stack software engineer. I build web and mobile applications,
-and I work daily with AI coding agents: building with them, and
-building the infrastructure that makes their output reliable.
+I'm the sole engineer on three production platforms: Ekko, a community app live on both app stores; enduri, a learning platform for children; and GRIT Score, a school platform built in an AI app builder and taken to production. I build through agentic coding, directing Claude Code and Codex under a rulebook and kit I built for them.
 
-Recent work: a cross-platform community app live on both app stores,
-a subscription learning platform, and an AI-built school platform
-taken to production.
-
-Open source: [brick-bacnet-mcp](https://github.com/Yveshby27/brick-bacnet-mcp),
-an MCP server for BACnet building automation networks.
-[mcp-server-audit](https://github.com/Yveshby27/mcp-server-audit),
-a CLI that checks an MCP server before you add it to an agent config.
-
-[habchy.dev](https://www.habchy.dev) · yves.habchy@gmail.com · [LinkedIn](https://www.linkedin.com/in/yves-habchy-713825236/)
+[yveshabchi.com](https://yveshabchi.com) · [yves@yveshabchi.com](mailto:yves@yveshabchi.com) · [LinkedIn](https://www.linkedin.com/in/yves-habchi-713825236/)
